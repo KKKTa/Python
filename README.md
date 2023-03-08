@@ -1,1 +1,1 @@
-# Python
+# Python練習用のレポジトリ
