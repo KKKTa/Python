@@ -1,2 +1,2 @@
-a = 1 + 2
-print(a)
+ans = 1 + 2
+print(ans)
